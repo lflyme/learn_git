@@ -4,4 +4,4 @@ ok,let try it again
 
 switch to a new branch
 
-creating a new branch is quick & simple
+create a new branch is quick and simple
