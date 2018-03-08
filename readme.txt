@@ -8,5 +8,6 @@ create a new branch is quick and simple
 
 create a a a a a a new branch dev
 
-ok,you have done test1
-now,start test2 
+ok,you have done test2
+now,start test3
+ok,start try it
